@@ -57,4 +57,3 @@ public class MainActivity2 extends AppCompatActivity {
         startActivity(i);
     }
 }
-//hai
